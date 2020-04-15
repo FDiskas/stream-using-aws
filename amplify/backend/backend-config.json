@@ -1,0 +1,10 @@
+{
+	"video": {
+		"mylivestream": {
+			"service": "video",
+			"serviceType": "livestream",
+			"providerPlugin": "awscloudformation",
+			"sha": "851af6b68583a9b9486575120aa17832bbddbbd6"
+		}
+	}
+}

@@ -42,6 +42,7 @@
 
 #### MediaStore
 - MediaStore Output Url: https://z225cs2ufcdeqk.data.mediastore.us-east-1.amazonaws.com/p/index.m3u8
+- Demo video: https://vjs.zencdn.net/v/oceans.mp4
 
 ## Reference
 - https://github.com/awslabs/amplify-video/blob/master/live-quickstart.md
